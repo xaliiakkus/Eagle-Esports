@@ -21,9 +21,10 @@ export default function Home() {
           height="695"
           src="https://www.youtube.com/embed/0m6-DYjVGPk"
           title="EAGLE E-SPORTS TAKIMIMIZ / QUSAY / PUBG MOBILE"
-          frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen
+        frameBorder="0"
+		allowFullScreen
+		
         ></iframe>
       </div>
     </section>
