@@ -15,8 +15,9 @@ export default function Home() {
         <h1 className={title()}>EAGLE E-SPORTS</h1>
         <h2 className={subtitle({ class: "mt-4" })}>Yakında...</h2>
       </div>
-      <div className=" text-center justify-center">
+      <div className=" text-center justify-center rounded-2xl ">
         <iframe
+		className=" text-center justify-center rounded-2xl "
           width="1236"
           height="695"
           src="https://www.youtube.com/embed/0m6-DYjVGPk"
