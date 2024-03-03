@@ -9,8 +9,8 @@ export default function Home() {
   return (
     <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
       <div className="inline-block max-w-lg text-center justify-center">
-        <h1 className={title()}>🦅&nbsp;</h1>
-
+        <h1 className={title()}><img className="w-[100%] h-[100%]" src="/img/egl.png" alt="EAGLE E-SPORTS" ></img>&nbsp;</h1>
+			
         <br />
         <h1 className={title()}>EAGLE E-SPORTS</h1>
         <h2 className={subtitle({ class: "mt-4" })}>Yakında...</h2>
