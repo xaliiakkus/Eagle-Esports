@@ -3,7 +3,6 @@
 @tailwind utilities;
 
 
-
 ::-webkit-scrollbar {
     width: 5px; /* for vertical scrollbar */
     height: 5px; /* for horizontal scrollbar */
