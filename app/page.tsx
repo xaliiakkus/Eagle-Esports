@@ -17,9 +17,7 @@ export default function Home() {
       </div>
       <div className=" text-center justify-center rounded-2xl ">
         <iframe
-		className=" text-center justify-center rounded-2xl "
-          width="1236"
-          height="695"
+		className=" text-center justify-center rounded-2xl  xs:w-[500px] xs:h-[300px]  md:w-[600px] md:h-[500px] lg:w-[1200px] lg:h-[900px]"
           src="https://www.youtube.com/embed/0m6-DYjVGPk"
           title="EAGLE E-SPORTS TAKIMIMIZ / QUSAY / PUBG MOBILE"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
